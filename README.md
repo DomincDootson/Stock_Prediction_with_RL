@@ -38,7 +38,7 @@ Looking at the distribution of profits from each trade, I think that the agent c
 
 ## Acknowledgements
 
-- [Git hub for inspiration](https://github.com/pskrunner14/trading-bot)
+- [For inspiration](https://github.com/pskrunner14/trading-bot)
 
 ## References
 
